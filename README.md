@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Pro465
+- 👋 Hi, I’m @pro465
 - 👀 I’m interested in Rust and only Rust.
 - 🌱 I’m currently learning everything i find interesting.
 - 📫 How to reach me: you can email me at namitapro0987@gmail.com
