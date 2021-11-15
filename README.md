@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Pro465
-- 👀 I’m interested in Rust,Python,C and C++.
+- 👀 I’m interested in Rust and only Rust.
 - 🌱 I’m currently learning everything i find interesting.
 - 📫 How to reach me: you can email me at namitapro0987@gmail.com
 
