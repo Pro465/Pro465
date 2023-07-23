@@ -1,5 +1,5 @@
 [![pro465's GitHub stats](https://github-readme-stats.vercel.app/api?username=pro465)](https://github.com/anuraghazra/github-readme-stats)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pro465&layout=compact)
 
 - 👋 Hi, I’m @pro465
 - 👀 I’m interested in Rust and only Rust.
